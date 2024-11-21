@@ -37,7 +37,7 @@ Spunky Game is a music creation game inspired by Incredibox. Players can explore
 
 **Online:**
 
-Spunky Game is primarily a web-based game, accessible directly through your browser. Simply visit [spunky games](https://spunky.games/) to start playing.
+Spunky Game is primarily a web-based game, accessible directly through your browser. Simply visit spunky games to start playing.
 
 
 ---
@@ -61,8 +61,8 @@ Spunky Game is primarily a web-based game, accessible directly through your brow
 
 ## Resources
 
-* Official Website: [spunky games](https://spunky.games/)
+* Official Website: spunky games
 
 ---
 
-Start creating your own music today! Play Spunky Game: [spunky.games](https://spunky.games/)
+Start creating your own music today! Play Spunky Game.
